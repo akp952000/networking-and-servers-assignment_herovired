@@ -1,5 +1,5 @@
 # networking-and-servers-assignment_herovired
-## Steps for deploy a website on localhost using apache2 and create a DNS name for this website as ‘awesomeweb’. 
+## Q.1 Steps for deploy a website on localhost using apache2 and create a DNS name for this website as ‘awesomeweb’. 
 ### 1.Open the Ubuntu OS inside the Virtual Box.
 ### 2.Open the terminal in the Ubuntu OS.
 ## 3.Update the Package List
@@ -49,3 +49,7 @@ sudo nano /etc/hosts
 - 127.0.0.1    awesomeweb
 ### 12.Test the Setup
 - Open a web browser and navigate to http://awesomeweb.
+### 13.Screenshots
+![WhatsApp Image 2024-08-14 at 10 06 26 AM (1)](https://github.com/user-attachments/assets/2c462049-5900-4a18-981a-d6fc7992b431)
+![WhatsApp Image 2024-08-14 at 10 06 26 AM](https://github.com/user-attachments/assets/30267938-c48d-4a45-a396-09be5de42d50)
+
